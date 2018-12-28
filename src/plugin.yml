@@ -1,0 +1,8 @@
+name: ProximityChat
+main: com.kigro.cocraft.ProximityChat.ProximityChat
+version: 1.0
+description: Chat only to your close friends
+commands:
+  proximitychat:
+    description: Set maximum distance at which messages are heard
+    usage: /proximitychat <range:"reload">

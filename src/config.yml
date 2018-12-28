@@ -1,0 +1,7 @@
+# The maximum range at which messages will be sent
+# set with /chatrange
+voice-range: 50
+
+# The character that makes a message be heard everywhere
+# TODO: set with /chatyell
+global-chat-character: !
